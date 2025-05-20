@@ -8,7 +8,7 @@ import {
   FaLinkedin,
 } from 'react-icons/fa'
 import { BiLogoJavascript } from 'react-icons/bi'
-import { SiExcpress, SiMongodb, SiMysql, SiWebpack } from 'react-icons/si'
+import { SiExpress, SiMongodb, SiMysql, SiWebpack } from 'react-icons/si'
 import {
   VscVscode,
   VscCommentUnresolved,
@@ -90,7 +90,7 @@ export const SKILLS = [
   },
   {
     id: '06',
-    icon: SiExcpress,
+    icon: SiExpress,
     skill: 'Express JS',
     progress: 85,
     type: 'backend',
