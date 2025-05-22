@@ -172,7 +172,8 @@ export const SKILLS = [
 ]
 
 export const ABOUT_ME = {
-  content: `I'm a passionate web developer with a strong foundation in both frontend and backend technologies. I have a keen eye for detail and a commitment to delivering high-quality, user-friendly applications. My experience includes working with various frameworks and libraries, as well as collaborating with cross-functional teams to bring projects to life. I am always eager to learn new skills and stay updated with the latest industry trends.`,
+  content: `I'm a passionate web developer with a strong foundation in both frontend and backend technologies. I have a keen eye for detail and a commitment to delivering high-quality, user-friendly applications. My experience includes working with various frameworks and libraries, as well as collaborating with cross-functional teams to bring projects to life. I am always eager to learn new skills and stay updated with the latest industry trends. In my free time, I enjoy exploring new technologies, contributing to open-source projects, and sharing my knowledge with others through blogging and mentoring. 
+    \n My Journey started with a fascination for how websites work, and it has evolved into a deep understanding of the entire web development process. I take pride in my ability to adapt to new challenges and continuously improve my skills. I believe that effective communication and collaboration are key to successful projects, and I strive to foster a positive and productive work environment.`,
   socialLinks: [
     { id: '01', label:'Facebook' ,icon: FaFacebook, link: 'https://www.facebook.com/' },
     { id: '02', label: 'Instagram' ,icon: FaInstagram, link: 'https://www.instagram.com/' },

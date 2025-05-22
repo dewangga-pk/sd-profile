@@ -33,7 +33,7 @@ const Navbar = () => {
     <nav className='container mx-auto sticky top-5 z-10'>
       <div className='flex items-center justify-between rounded-full bg-white/25 border border-[#fee6cc] backdrop-blur-[10px] m-5 p-3 md:p-0'>
         {/* Logo */}
-        <h2 className='lg:text-3xl italic font-medium text-[#99632a] px-9'>My Portfolio</h2>
+        <p className='lg:text-3xl italic font-medium text-[#99632a] px-9'>My Portfolio</p>
 
         {/* Hamburger Icon */}
         <button
